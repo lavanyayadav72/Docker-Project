@@ -4,4 +4,4 @@ services:
     web:
       image: amol1996/spring-petclinic-test:latest
       ports:
-         - "8080:8080"
+         - "8081:8080"
